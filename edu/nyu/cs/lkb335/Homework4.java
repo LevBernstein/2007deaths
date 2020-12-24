@@ -39,7 +39,7 @@ public class Homework4 {
 		*/
 		
 		//Using the same method I utilized in Homework 3, first I convert the CSV into a single array separated by line.
-		String fileName= "edu\\nyu\\cs\\lkb335\\death.csv";
+        String fileName= "edu\\nyu\\cs\\lkb335\\death.csv";
         File sourceFile= new File(fileName);
         String sourceFileString = "";
         try {
@@ -258,8 +258,7 @@ public class Homework4 {
 		}
 		
 		
-		
-		//Here I close the scanner just so eclipse will shut up about the resource leak that comes if you don't close a scanner. I could just suppress the warning, but it couldn't hurt to close a leak.
+		//Close the Scanner
 		input.close();
 
 	}
