@@ -1,0 +1,115 @@
+Heart Disease,Male,Hispanic,1327
+Cancer,Male,Hispanic,1013
+HIV,Male,Hispanic,218
+Influenza and Pneumonia,Male,Hispanic,189
+Substance Use Disorders,Male,Hispanic,183
+Diabetes,Male,Hispanic,177
+Accidents Except Drug Poisoning,Male,Hispanic,154
+Cerebrovascular Disease,Male,Hispanic,126
+Assault,Male,Hispanic,114
+Chronic Liver Disease and Cirrhosis,Male,Hispanic,107
+All Other Causes,Male,Hispanic,988
+Cancer,Male,Asian and Pacific Islander,528
+Heart Disease,Male,Asian and Pacific Islander,496
+Influenza and Pneumonia,Male,Asian and Pacific Islander,66
+Cerebrovascular Disease,Male,Asian and Pacific Islander,56
+Accidents Except Drug Poisoning,Male,Asian and Pacific Islander,53
+Diabetes,Male,Asian and Pacific Islander,47
+Chronic Lower Respiratory Diseases,Male,Asian and Pacific Islander,43
+Intentional Self-Harm,Male,Asian and Pacific Islander,36
+Hypertension,Male,Asian and Pacific Islander,25
+Chronic Liver Disease and Cirrhosis,Male,Asian and Pacific Islander,18
+All Other Causes,Male,Asian and Pacific Islander,221
+Heart Disease,Male,White,5632
+Cancer,Male,White,3356
+Influenza and Pneumonia,Male,White,530
+Chronic Lower Respiratory Diseases,Male,White,345
+Accidents Except Drug Poisoning,Male,White,297
+Cerebrovascular Disease,Male,White,267
+Substance Use Disorders,Male,White,261
+Diabetes,Male,White,237
+Intentional Self-Harm,Male,White,187
+Hypertension,Male,White,123
+All Other Causes,Male,White,1749
+Heart Disease,Male,Black,2121
+Cancer,Male,Black,1523
+HIV,Male,Black,377
+Assault,Male,Black,267
+Diabetes,Male,Black,246
+Influenza and Pneumonia,Male,Black,229
+Cerebrovascular Disease,Male,Black,213
+Substance Use Disorders,Male,Black,163
+Accidents Except Drug Poisoning,Male,Black,158
+Chronic Lower Respiratory Diseases,Male,Black,137
+Hypertension,Male,Black,137
+All Other Causes,Male,Black,1163
+Heart Disease,Male,Other,36
+Cancer,Male,Other,29
+Diabetes,Male,Other,11
+Influenza and Pneumonia,Male,Other,7
+Cerebrovascular Disease,Male,Other,7
+Accidents Except Drug Poisoning,Male,Other,5
+All Other Causes,Male,Other,24
+Heart Disease,Male,Unknown,86
+Cancer,Male,Unknown,45
+Influenza and Pneumonia,Male,Unknown,13
+Substance Use Disorders,Male,Unknown,10
+Diabetes,Male,Unknown,9
+Accidents Except Drug Poisoning,Male,Unknown,8
+HIV,Male,Unknown,6
+Intentional Self-Harm,Male,Unknown,5
+All Other Causes,Male,Unknown,43
+Heart Disease,Female,Hispanic,1418
+Cancer,Female,Hispanic,969
+Diabetes,Female,Hispanic,205
+Influenza and Pneumonia,Female,Hispanic,190
+Cerebrovascular Disease,Female,Hispanic,164
+Chronic Lower Respiratory Diseases,Female,Hispanic,116
+HIV,Female,Hispanic,109
+Hypertension,Female,Hispanic,78
+Accidents Except Drug Poisoning,Female,Hispanic,71
+Septicemia,Female,Hispanic,49
+All Other Causes,Female,Hispanic,820
+Heart Disease,Female,Asian and Pacific Islander,428
+Cancer,Female,Asian and Pacific Islander,395
+Cerebrovascular Disease,Female,Asian and Pacific Islander,70
+Influenza and Pneumonia,Female,Asian and Pacific Islander,58
+Diabetes,Female,Asian and Pacific Islander,34
+Accidents Except Drug Poisoning,Female,Asian and Pacific Islander,32
+Chronic Lower Respiratory Diseases,Female,Asian and Pacific Islander,29
+Hypertension,Female,Asian and Pacific Islander,22
+Intentional Self-Harm,Female,Asian and Pacific Islander,22
+Nephritis,Female,Asian and Pacific Islander,13
+All Other Causes,Female,Asian and Pacific Islander,182
+Heart Disease,Female,White,7050
+Cancer,Female,White,3518
+Influenza and Pneumonia,Female,White,659
+Chronic Lower Respiratory Diseases,Female,White,472
+Cerebrovascular Disease,Female,White,372
+Diabetes,Female,White,231
+Accidents Except Drug Poisoning,Female,White,162
+Hypertension,Female,White,155
+Alzheimer's,Female,White,107
+Nephritis,Female,White,89
+All Other Causes,Female,White,1680
+Heart Disease,Female,Black,2722
+Cancer,Female,Black,1800
+Diabetes,Female,Black,358
+Influenza and Pneumonia,Female,Black,295
+Cerebrovascular Disease,Female,Black,279
+HIV,Female,Black,248
+Hypertension,Female,Black,166
+Chronic Lower Respiratory Diseases,Female,Black,163
+Septicemia,Female,Black,89
+Substance Use Disorders,Female,Black,87
+Accidents Except Drug Poisoning,Female,Black,87
+All Other Causes,Female,Black,1230
+Heart Disease,Female,Other,43
+Cancer,Female,Other,22
+All Other Causes,Female,Other,15
+Heart Disease,Female,Unknown,82
+Cancer,Female,Unknown,51
+Chronic Lower Respiratory Diseases,Female,Unknown,6
+Hypertension,Female,Unknown,5
+HIV,Female,Unknown,5
+All Other Causes,Female,Unknown,27
